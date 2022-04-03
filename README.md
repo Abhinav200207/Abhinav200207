@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhinav200207
-- 👀 I’m interested in ML/AI/AndroidDev
+- 👀 I’m interested in ML/AndroidDev/Backend
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
