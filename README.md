@@ -7,3 +7,5 @@ Hi there 👋
 
 I am currently pursuing BTech in CSE from IIIT Ranchi.
 I am a Fullstack MERN developer and a competitive coder (Python3 | C++). Besides this I am a Tech Enthusiast and Android Developer.
+
+[![ABhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav200207)](https://github.com/Abhinav200207/github-readme-stats)
